@@ -16,10 +16,14 @@ This project is a cloned version of the [Uber Eats](https://www.ubereats.com/) h
 
 ## 📁 Project Structure
 
-uber-clone/
+uber-clone/uber
+
 ├── ubereats.html
+
 ├── image.png / uber.png (hero images)
+
 ├── README.md
 
 ## Live demo
+https://namra7-x.github.io/uber-clone/uber/ubereats.html
 
